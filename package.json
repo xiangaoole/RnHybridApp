@@ -1,0 +1,12 @@
+{
+  "name": "RnHybridApp",
+  "version": "0.1.0715",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "^0.64.2"
+  }
+}
